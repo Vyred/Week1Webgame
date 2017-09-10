@@ -1,0 +1,17 @@
+{
+  "name": "createjs-template",
+  "description": "CreateJs Project Template",
+  "main": "",
+  "keywords": [
+    "CreateJs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
